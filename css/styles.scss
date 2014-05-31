@@ -1,0 +1,33 @@
+---
+---
+
+@import 'grid';
+
+main {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 960px;
+}
+
+a {
+  color: #50C878;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+header {
+
+  .avatar {
+    width: 32px;
+    height: 32px;
+  }
+
+  .title {
+    display: inline-block;
+    margin-left: 5px;
+  }
+}
