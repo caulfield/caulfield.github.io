@@ -1,6 +1,3 @@
----
----
-
 @import 'grid';
 
 main {
@@ -29,5 +26,21 @@ header {
   .title {
     display: inline-block;
     margin-left: 5px;
+  }
+}
+
+ul.posts {
+  padding-left: 1em;
+  list-style: none;
+}
+
+.post-date {
+  font-size: .75em;
+}
+
+.post {
+  .post-date {
+    margin-top: -1em;
+    padding-bottom: .5em;
   }
 }

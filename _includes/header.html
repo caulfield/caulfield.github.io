@@ -1,6 +1,16 @@
 <header>
-  <img class='avatar' src="https://avatars2.githubusercontent.com/u/906583?s=460" alt="me">
   <h1 class='title'>
-    <a href="/">{{site.title}}</a>
+    <a href="/">
+      <img class='avatar' src="https://avatars2.githubusercontent.com/u/906583?s=460" alt="me">
+      {{site.title}}
+    </a>
   </h1>
+
+  <section>
+  Hi! My name is Sergey Kuchmistov. Subscribe via <a
+      href="{{ "/feed.xml" | prepend: site.baseUrl }}"
+    >via RSS</a> and follow me <a
+      href="{{ site.github }}"   
+    >on github</a>.
+  </section>
 </header>
