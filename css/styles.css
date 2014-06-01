@@ -220,7 +220,7 @@ main {
   font-family: 'Roboto', sans-serif;
   padding-top: 20px;
   margin: 0 auto;
-  width: 960px; }
+  max-width: 960px; }
 
 a {
   color: #50C878;
@@ -240,7 +240,9 @@ ul.posts {
   padding-left: 1em;
   list-style: none; }
 
+.post-date {
+  font-size: .75em; }
+
 .post .post-date {
-  font-size: .75em;
   margin-top: -1em;
   padding-bottom: .5em; }
