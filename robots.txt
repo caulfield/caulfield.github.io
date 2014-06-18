@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /css/
+Host: caulfield.github.io
