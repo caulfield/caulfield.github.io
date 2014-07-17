@@ -1,6 +1,6 @@
 # Site settings
 title: Blog
-description: "Awesome."
+description: "Awesome blog about software development technologies."
 baseurl: ""
 github: 'http://github.com/caulfield'
 url: "http://caulfield.github.io"
