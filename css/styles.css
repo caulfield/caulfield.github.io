@@ -222,6 +222,9 @@ main {
   margin: 0 auto;
   max-width: 960px; }
 
+article {
+  width: 960px; }
+
 a {
   color: #50C878;
   text-decoration: none; }
@@ -239,6 +242,8 @@ header .title {
 ul.posts {
   padding-left: 1em;
   list-style: none; }
+  ul.posts li {
+    margin-top: 5px; }
 
 .post-date {
   font-size: .75em; }
