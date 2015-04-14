@@ -7,6 +7,10 @@ main {
   max-width: 960px;
 }
 
+article {
+  width: 960px;
+}
+
 a {
   color: #50C878;
   text-decoration: none;
@@ -32,6 +36,10 @@ header {
 ul.posts {
   padding-left: 1em;
   list-style: none;
+
+  li {
+    margin-top: 5px;
+  }
 }
 
 .post-date {
