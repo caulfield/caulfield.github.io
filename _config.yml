@@ -3,6 +3,7 @@ title: Blog
 description: "Awesome blog about software development technologies."
 baseurl: ""
 github: 'http://github.com/caulfield'
+linkedin: 'https://www.linkedin.com/pub/sergey-kuchmistov/6a/938/262'
 url: "http://caulfield.github.io"
 
 sass:
