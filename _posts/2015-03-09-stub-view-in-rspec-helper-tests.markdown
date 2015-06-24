@@ -2,7 +2,7 @@
 layout: post
 title: "[SNPT] Right way to stub templates in helper specs"
 date: 2015-03-09 12:30:00
-categories: rspec, snippet
+categories: rspec, snippet, ruby
 ---
 
 No more allow(helper).to receive(:render).
