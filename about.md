@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img width="400" src="http://scontent-a.cdninstagram.com/hphotos-xpa1/outbound-distilleryimage1/t0.0-17/OBPTH/e4ced90e3ad211e2a5bc22000a9e2899_7.jpg" alt="Minsk">
-<img width="400" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/916488_1400964170181402_1180650543_n.jpg" alt="India">
+<img width="400" src="https://pp.vk.me/c11053/v11053407/27f/aXifSiPzl9s.jpg" alt="avatar">
+<img width="400" src="https://scontent-fra3-1.cdninstagram.com/t51.2885-15/s480x480/e35/11313577_171459726539322_88334271_n.jpg?ig_cache_key=MTExNjc4OTQwNTk2OTYyODU5Nw%3D%3D.2" alt="Minsk">

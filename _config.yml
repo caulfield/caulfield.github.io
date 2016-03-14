@@ -13,9 +13,6 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
 
-tag_page_layout: tag_page
-tag_page_dir: tag
-
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title
