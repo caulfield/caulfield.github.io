@@ -2,7 +2,7 @@
 layout: post
 title: "How to typecast rails sql data everywhere"
 date: 2015-09-08 17:20:00
-categories: rails, sql
+tags: rails sql
 ---
 
 Referencing to [rails-sqli.org][railssqli] information page there are a lot of ActiveRecord::Relation methods don't sanitize your data.

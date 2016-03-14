@@ -2,7 +2,7 @@
 layout: post
 title: "Git message templates"
 date: 2014-07-17 21:50:12
-categories: git
+tags: git
 ---
 
 When you work in big company with a lot of developers and long-term projects it's useful to follow conventions in any reports. And of course SCM message is a kind of reports. Projects in my company grow fast. Developers spend a lot of time for merging, reviewing, reverting, etc..

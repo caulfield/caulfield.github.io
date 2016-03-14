@@ -2,7 +2,7 @@
 layout: post
 title: "How to install pfx certificate on linux server with nginx"
 date: 2015-04-17 17:38:00
-categories: openssl, nginx
+tags: openssl nginx
 ---
 
 There was some issue to setup ssl on servers using pfx file for mer. At first, pfx format(PKCS #12) historically were used on Microsoft Servers. Pfx files include both private key and the certificate.
